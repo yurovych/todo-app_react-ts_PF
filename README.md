@@ -49,7 +49,7 @@ The Todo Application is a modern task management tool built using React. It allo
 This Todo Application is a feature-rich, user-friendly tool designed for managing tasks effectively. It highlights the power of React for building interactive UIs while maintaining a clean separation of concerns through components and context. Whether used for personal task management or team projects, this application provides a robust solution for staying organized and productive.
 
 ## Links
-- **Preview**: [Project Live Preview](..)
+- **Preview**: [Project Live Preview](https://yurovych.github.io/todo-app_react-ts_PF/)
 
 #### Additional Instructions
 
