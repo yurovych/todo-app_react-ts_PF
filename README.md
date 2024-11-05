@@ -55,7 +55,9 @@ This Todo Application is a feature-rich, user-friendly tool designed for managin
 
 To run the project locally:
 
-1. Clone the repository.
-2. Use Node v20 or higher.
-3. Ensure that you have a live server extension or tool to preview the HTML file.
-4. Open `index.html` in the browser by running 'npm start' in terminal.
+1. Use Node v20 or higher.
+2. Copy the repository url.
+3. Clone the repository to your directory ('git clone <url>').
+4. Ensure that you have a live server extension or tool to preview the HTML file.
+5. Run 'npm install'.
+6. Open `index.html` in the browser by running 'npm start' in terminal.
